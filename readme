@@ -1,0 +1,6 @@
+- have used spring-boot to set-up this project
+- following this http://spring.io/guides/gs/spring-boot/
+- added javaplex-4.2.1 as dependency
+- then:  >gradle eclipse
+  (this produces .classpath for eclipse)
+- to run, run from eclipse Application or from console >gradle run
