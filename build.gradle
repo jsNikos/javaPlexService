@@ -31,7 +31,7 @@ dependencies {
     // tag::actuator[]
     compile("org.springframework.boot:spring-boot-starter-actuator")
     // end::actuator[]
-	compile files('C:/nikos/tmp/javaplex-4.2.1')	
+	compile files('C:/nikos/tmp/javaplex-4.2.1.jar')	
     testCompile("junit:junit")
 }
 

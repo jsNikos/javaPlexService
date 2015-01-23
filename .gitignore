@@ -4,3 +4,4 @@ myClasses/**
 bin/**
 .gradle/**
 .settings/**
+/bin
